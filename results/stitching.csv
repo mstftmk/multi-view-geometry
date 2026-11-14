@@ -1,0 +1,4 @@
+pair,matches,inliers,corner_error_px
+boat 1-3,504,462,0.63
+graf 1-2,473,415,1.1
+synthetic room,,,focal 803.1 (true 800)
